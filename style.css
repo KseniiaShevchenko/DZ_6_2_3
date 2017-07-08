@@ -1,0 +1,17 @@
+table {
+	width: 60%;
+	margin: auto;
+	font-family: "Arial", sans-serif;
+	font-size: 14px;
+	border-collapse: collapse;
+}
+
+td, th {
+	height: 35px;
+	text-align: left;
+}
+
+tr {
+	border-bottom: 1px solid #c9c9c9;
+}
+
